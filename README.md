@@ -1,3 +1,4 @@
+https://github.com/preetipisal770/CustomerChurn-Classification-project
 
 Simply Customer Churn Classification using Machine learning..!! To simply run this model: 1.Clone this respository 2.Run the customer-churn-classification-ml-log-randomfores.ipynb file  3.View results.
 
